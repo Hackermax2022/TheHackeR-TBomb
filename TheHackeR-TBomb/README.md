@@ -95,7 +95,7 @@ apk add python3
 apk add py3-pip
 apk add ruby
 gem install toilet
-git clone https://github.com/Hackermax2022
+git clone https://github.com/Hackermax2022/TheHackeR-TBomb.git
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -107,7 +107,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/Hackermax2022/TheHackeR-TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -129,7 +129,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/Hackermax2022/TheHackeR-TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -151,7 +151,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 - Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
 - Mail **[0n1cOn3](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
 - Ping **Rieltar** at https://t.me/RieltarReborn
-- Check **[Bishal](https://github.com/kbshal)** at https://github.com/kbshal
+- Check **[Bishal](https://github.com/kbshal)** at https://github.com/Hackermax2022
 
 
 ### Donators:
